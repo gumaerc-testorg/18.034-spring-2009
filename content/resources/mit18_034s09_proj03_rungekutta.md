@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9103c1db-2f04-9c03-0b86-e65566e48b52
 resourcetype: Document
 title: Numerical Approximations in Differential Equations The Runge-Kutta Method
 uid: 5ce43fd5-198b-d73c-d5eb-c631326eff1a

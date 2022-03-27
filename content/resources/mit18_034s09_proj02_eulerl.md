@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9103c1db-2f04-9c03-0b86-e65566e48b52
 resourcetype: Document
 title: "Limitations of Euler\u2019s Method for Numerical Integration"
 uid: 0d32257a-3c29-8e69-0c67-469629cb7227

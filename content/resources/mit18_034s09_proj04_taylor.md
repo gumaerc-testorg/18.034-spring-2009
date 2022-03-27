@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 9103c1db-2f04-9c03-0b86-e65566e48b52
 resourcetype: Document
 title: Higher Order Taylor Methods
 uid: 268ee8b2-49b8-0b2e-8741-73295afa0329

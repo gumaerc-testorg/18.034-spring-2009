@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 9cda5b58-798f-fd21-4476-344f03f1e363
 resourcetype: Document
 title: 'Practice Midterm #2'
 uid: 36a83111-9f3e-63a1-6917-eb60dbbdfeff
