@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the optional final project of the
+  course, including project suggestions and sample student projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,10 +38,10 @@ Please feel free to come up with your own idea!
 Sample Student Projects
 -----------------------
 
-Adaptive Stepsize Numerical Methods for Solving Ordinary Differential Equations ([PDF]({{< baseurl >}}/resources/mit18_034s09_proj01_euler)) (Courtesy of Oleg Golberg. Used with permission.)
+Adaptive Stepsize Numerical Methods for Solving Ordinary Differential Equations ({{% resource_link 2e67504e-225a-ad95-dffe-c194d9efb139 "PDF" %}}) (Courtesy of Oleg Golberg. Used with permission.)
 
-Limitations of Euler's Method for Numerical Integration ([PDF]({{< baseurl >}}/resources/mit18_034s09_proj02_eulerl)) (Courtesy of Laura Evans. Used with permission.)
+Limitations of Euler's Method for Numerical Integration ({{% resource_link 0d32257a-3c29-8e69-0c67-469629cb7227 "PDF" %}}) (Courtesy of Laura Evans. Used with permission.)
 
-Numerical Approximations in Differential Equations: The Runge-Kutta Method ([PDF]({{< baseurl >}}/resources/mit18_034s09_proj03_rungekutta)) (Courtesy of Ernest Ngaruiya. Used with permission.)
+Numerical Approximations in Differential Equations: The Runge-Kutta Method ({{% resource_link 5ce43fd5-198b-d73c-d5eb-c631326eff1a "PDF" %}}) (Courtesy of Ernest Ngaruiya. Used with permission.)
 
-Higher Order Taylor Methods ([PDF]({{< baseurl >}}/resources/mit18_034s09_proj04_taylor)) (Courtesy of Marcelo Julio Alvisio and Lisa Marie Danz. Used with permission.)
+Higher Order Taylor Methods ({{% resource_link 268ee8b2-49b8-0b2e-8741-73295afa0329 "PDF" %}}) (Courtesy of Marcelo Julio Alvisio and Lisa Marie Danz. Used with permission.)

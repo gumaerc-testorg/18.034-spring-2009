@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course along
+  with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -44,10 +46,10 @@ SOLUTIONS
 L5
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 1 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset01))
+Problem set 1 ({{% resource_link 4831ae10-4fb8-cbc1-7cc5-4b34e4daee74 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_sol_pset01))
+({{% resource_link 2200014e-7bb8-5403-7c73-2ad7f65166c5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,10 +58,10 @@ Problem set 1 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset01))
 L8
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 2 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset02))
+Problem set 2 ({{% resource_link e0586be7-6805-3346-127d-f5ebe728d658 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_sol_pset02))
+({{% resource_link 1c1bd17f-7022-be38-0546-304ab09d9891 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,10 +70,10 @@ Problem set 2 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset02))
 L13
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 3 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset03))
+Problem set 3 ({{% resource_link cbb00848-3805-5b69-87c9-674e5bc53c2a "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_sol_pset03))
+({{% resource_link 353942fa-09c0-4dc0-e5fa-069b3771ca51 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,10 +82,10 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset03))
 L16
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 4 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset04))
+Problem set 4 ({{% resource_link a380c05d-46bb-ad0b-e08e-3a59f27b4afb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_pset04))
+({{% resource_link a380c05d-46bb-ad0b-e08e-3a59f27b4afb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,10 +94,10 @@ Problem set 4 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset04))
 L21
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 5 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset05))
+Problem set 5 ({{% resource_link 854fe36d-5fb4-5303-64b7-2e698524c7ef "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_sol_pset05))
+({{% resource_link cb840175-74a3-682d-7973-8c1c49b0d3cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,10 +106,10 @@ Problem set 5 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset05))
 L24
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 6 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset06))
+Problem set 6 ({{% resource_link a207aed2-2ffe-8c33-ddc2-f715122b9645 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_pset06))
+({{% resource_link a207aed2-2ffe-8c33-ddc2-f715122b9645 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,10 +118,10 @@ Problem set 6 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset06))
 R16
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 7 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset07))
+Problem set 7 ({{% resource_link 5b835985-07e2-5709-029f-5d91190b2d9e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_sol_pset07))
+({{% resource_link 00e7babc-ab3f-6203-4a4f-e6dc9c202ed8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,10 +130,10 @@ Problem set 7 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset07))
 L31
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 8 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset08))
+Problem set 8 ({{% resource_link 97a5b2a0-4180-7d78-9eb9-5b3b982aeea6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_sol_pset08))
+({{% resource_link 0d0c9dc2-91bb-36fd-1c81-d255a4113faf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,10 +142,10 @@ Problem set 8 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset08))
 L34
 {{< tdclose >}}
 {{< tdopen >}}
-Problem set 9 ([PDF]({{< baseurl >}}/resources/mit18_034s09_pset09))
+Problem set 9 ({{% resource_link b8f69455-689b-be2d-f113-8662462383ac "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_sol_pset09))
+({{% resource_link 123964f8-58a7-797a-35f7-ff5875b10eb5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

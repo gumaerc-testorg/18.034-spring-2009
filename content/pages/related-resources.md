@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to related resource for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
@@ -14,4 +15,4 @@ uid: af70d44d-b29c-3f18-c939-babc9ec4ab8d
 
 We will employ a series of specially written Java™ Applets, or demonstrations during lecture and recitation.
 
-[10 lessons of an MIT education](http://www.math.tamu.edu/~cyan/Rota/mitless.html) by Gian-Carlo Rota (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ams.org/notices/200002/mem-rota.pdf)), from the Association of Alumni and Alumnae of MIT (April 1997)
+[10 lessons of an MIT education](http://www.math.tamu.edu/~cyan/Rota/mitless.html) by Gian-Carlo Rota ([PDF](http://www.ams.org/notices/200002/mem-rota.pdf)), from the Association of Alumni and Alumnae of MIT (April 1997)
