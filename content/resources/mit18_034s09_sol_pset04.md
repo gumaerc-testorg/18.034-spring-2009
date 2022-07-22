@@ -5,6 +5,7 @@ file: /courses/18-034-honors-differential-equations-spring-2009/e12f2a13616a16ef
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Solutions to Problemset 4
 uid: e12f2a13-616a-16ef-89b3-397f07d77af6
 ---
 Solutions to a problem set on differential equations.
-

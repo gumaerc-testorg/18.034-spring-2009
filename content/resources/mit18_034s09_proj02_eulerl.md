@@ -6,6 +6,7 @@ file: /courses/18-034-honors-differential-equations-spring-2009/0d32257a3c298e69
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Limitations of Euler\u2019s Method for Numerical Integration"
 uid: 0d32257a-3c29-8e69-0c67-469629cb7227
 ---
 Example of student work for the optional final project of the course: a paper on the limitations of Euler's method for numerical integration.
-

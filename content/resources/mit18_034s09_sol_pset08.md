@@ -5,6 +5,7 @@ file: /courses/18-034-honors-differential-equations-spring-2009/0d0c9dc291bb36fd
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem set 8, Solution keys
 uid: 0d0c9dc2-91bb-36fd-1c81-d255a4113faf
 ---
 Solutions to a problem set on differential equations.
-

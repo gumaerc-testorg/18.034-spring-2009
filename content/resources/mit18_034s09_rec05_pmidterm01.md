@@ -5,6 +5,7 @@ file: /courses/18-034-honors-differential-equations-spring-2009/07ab098fe8de5f46
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Practice Midterm #1'
 uid: 07ab098f-e8de-5f46-2ae4-bea17690cb62
 ---
 Practice midterm exam on differential equations.
-

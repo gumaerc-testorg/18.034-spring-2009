@@ -7,6 +7,7 @@ file: /courses/18-034-honors-differential-equations-spring-2009/2e67504e225aad95
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Adaptive Stepsize Numerical Methods for Solving Ordinary Differential Equ
 uid: 2e67504e-225a-ad95-dffe-c194d9efb139
 ---
 Example of student work for the optional final project of the course: a paper on adaptive stepsize numerical methods for solving ordinary differential equations.
-

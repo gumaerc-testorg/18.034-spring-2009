@@ -5,6 +5,7 @@ file: /courses/18-034-honors-differential-equations-spring-2009/bb379ccbb69983c3
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Midterm #2'
 uid: bb379ccb-b699-83c3-abd2-890edd08155a
 ---
 Midterm exam on differential equations.
-
