@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the three midterm exams of the course with solutions,
+  and the comprehensive final exam.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 9cda5b58-798f-fd21-4476-344f03f1e363
 ---
@@ -27,10 +32,10 @@ EXAMS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_rec05_pmidterm01))
+({{% resource_link 07ab098f-e8de-5f46-2ae4-bea17690cb62 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_exam01_midterm01))
+({{% resource_link e7d28c2f-6db6-dc08-59aa-4b1a15cd1eb1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -39,10 +44,10 @@ EXAMS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_rec11_pmidterm02))
+({{% resource_link 36a83111-9f3e-63a1-6917-eb60dbbdfeff "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_exam02_midterm02))
+({{% resource_link bb379ccb-b699-83c3-abd2-890edd08155a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,10 +56,10 @@ EXAMS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_rec17_pmidterm03))
+({{% resource_link 0d2dc6fd-b90f-635b-6f54-3866d482e3e2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_exam03_midterm03))
+({{% resource_link 1639b053-641e-8891-2d54-bea7d2d4087b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +68,7 @@ EXAMS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_exam04_pfinal))
+({{% resource_link 9fb02c33-39fc-b19e-9094-887d69252126 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 (Final exam  

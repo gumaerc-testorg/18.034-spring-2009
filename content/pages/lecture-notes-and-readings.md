@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and readings for
+  the course along with lecture notes developed by the instructor to supplement the
+  reading assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lecture Notes and Readings
 uid: 540b9b8b-54b7-3889-ec25-373b2295e0b7
 ---
@@ -35,7 +40,7 @@ L0
 Terminology and implicit solutions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec0))
+({{% resource_link 1cbc1a49-aacd-a446-d9c6-9f43c31a8e1e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 1.1 Terminology & Implicit Solutions
@@ -56,7 +61,7 @@ L1
 Integration and solutions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec01))
+({{% resource_link 7aa9f074-38e0-74a3-954c-af3b05d7ed65 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 1.2 Fundamental Theorem of the Calculus & Method by Quadrature
@@ -71,7 +76,7 @@ L2
 Fundamental principles
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec02))
+({{% resource_link a8c15198-f81e-8587-0da8-5da9792565b9 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 1.9 Fundamental Principles - Linearity, Existence and Uniqueness, Stability
@@ -86,7 +91,7 @@ L3
 First-order linear equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec03))
+({{% resource_link baee52ff-38d1-3f85-e1df-6eaa6d716c70 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 1.3 First-order Linear Equations & Logarithmic Spirals
@@ -101,7 +106,7 @@ L4
 Separable equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec04))
+({{% resource_link c708b004-cbd8-a2a2-3e45-3aceb1e97ce0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 1.4 Separable Equations & Orthogonal Trajectories
@@ -116,7 +121,7 @@ L5
 Linear fractional equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec05))
+({{% resource_link c57b5ac6-8a2e-2be0-2288-e9aeabbe17ab "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 1.7 Linear Fractional Equations
@@ -137,7 +142,7 @@ L6
 Second-order linear equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec06))
+({{% resource_link 32b7e82f-0a87-e792-d675-0e1ac7a92e71 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 2.1-2.2 Second-order Linear Equations
@@ -152,7 +157,7 @@ L7
 Mechanical oscillation
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_034s09_lec07))
+({{% resource_link 5143aa0e-eba3-18f5-3ff7-fc53c150b585 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -167,7 +172,7 @@ L8
 Uniqueness and the wronskian
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec08))
+({{% resource_link 861e84c2-e76e-a482-bab1-4421e148b15d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 2.4-2.5 Uniqueness & the Wronskian
@@ -182,7 +187,7 @@ L9
 Separation and comparison theorems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec09))
+({{% resource_link 0cdeb657-4910-10f0-f8c6-0aa49f2d5248 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 2.6 Separation and Comparison Theorems
@@ -197,7 +202,7 @@ L10
 The maximum principle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec10))
+({{% resource_link 9de97278-5993-b1c3-2be1-8b415dd8555b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -218,7 +223,7 @@ L11
 Higher-order linear equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec11))
+({{% resource_link a985b55b-16a2-0be2-f6ee-de269aee670c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 3.1-3.3 The Characteristic Polynomial
@@ -233,7 +238,7 @@ L12
 Solution bases
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec12))
+({{% resource_link 13e52f2d-b55e-8a9b-8f98-93418630aee6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 3.4 Solution Bases - Existence & Uniqueness
@@ -248,7 +253,7 @@ L13
 Inhomogeneous equations
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec13))
+({{% resource_link 7fa8d64b-eaed-179d-c270-35036186f941 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 3.5 Inhomogeneous Equations
@@ -263,7 +268,7 @@ L14
 Stability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec14))
+({{% resource_link 01a91585-d8d2-7426-1bad-acc4b0003fed "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 2.3, 3.7 Asymptotic Stability
@@ -344,7 +349,7 @@ L19
 Laplace transform
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec19))
+({{% resource_link b2937091-4b8f-6292-2421-e2ba67e37bde "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -359,7 +364,7 @@ L20
 Transform and differential equations: generalized solutions, application to ODEs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec20))
+({{% resource_link b7fe5566-3707-9a93-9e13-8b97affb62a7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -374,7 +379,7 @@ L21
 Step functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec21))
+({{% resource_link 35dde5f5-a580-4aba-639a-c88107dad0f7 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -389,7 +394,7 @@ L22
 Convolution
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec22))
+({{% resource_link 50bf1a3b-effc-dde8-4a99-1e0c73c0542d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -404,7 +409,7 @@ L23
 The dirac distribution
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec23))
+({{% resource_link cf9a1d5b-4e93-bac3-2e1a-b005e2028145 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -419,7 +424,7 @@ L24
 The transfer function and the pole diagram
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec24))
+({{% resource_link c3e31e27-67c5-8a2c-c5ca-11dcd1f06201 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -440,7 +445,7 @@ L25
 Linear systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec25))
+({{% resource_link 7dc1bebe-08c2-a0ec-9075-b77629632c53 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 5.4 Matrices & Linear Systems
@@ -455,7 +460,7 @@ L26
 Eigenvalues and eigenvectors
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec26))
+({{% resource_link 3f8ee63b-e6a5-686a-399b-48b2ce48f7cd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 5.4 Eigenvalues & Eigenvectors
@@ -470,7 +475,7 @@ L27
 Complex solutions and the fundamental matrix
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec27))
+({{% resource_link 033a739b-46a0-700f-7842-67828123feb2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -485,7 +490,7 @@ L28
 Repeated eigenvalues and the matrix exponential
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec28))
+({{% resource_link ee55d6dd-7850-ad31-8807-91d5bd498d4d "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Appendix A1-2 Repeated Eigenvalues & Matrix Exponential
@@ -500,7 +505,7 @@ L29
 Phase planes I
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec29))
+({{% resource_link f20a8071-234a-d9e0-a24c-1c30bceb3636 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 5.5 Phase Planes
@@ -515,7 +520,7 @@ L30
 Phase planes II
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit18_034s09_lec30))
+({{% resource_link 45e0c976-5088-5dd9-48d9-8be2ec0a8735 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 5.5 Phase Planes; Degenerate cases
@@ -605,7 +610,7 @@ L36
 The Poincare-Bendixson theorem
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit18_034s09_lec36_lc))
+({{% resource_link c44e0de2-cd10-0c10-1f3c-1a84d9f1b4bc "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 \[BR\] Sec. 5.12 The Poincare-Bendixson Theorem
