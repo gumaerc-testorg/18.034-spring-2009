@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work for the optional final project of the course:
   a paper on the limitations of Euler''s method for numerical integration.'
 file: /courses/18-034-honors-differential-equations-spring-2009/0d32257a3c298e690c67469629cb7227_MIT18_034s09_proj02_eulerl.pdf
+file_size: 131623
 file_type: application/pdf
 learning_resource_types:
 - Projects

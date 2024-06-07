@@ -4,6 +4,7 @@ description: 'Example of student work for the optional final project of the cour
   a paper on the use of Higher Order Taylor Methods to solve differential equations
   numerically.'
 file: /courses/18-034-honors-differential-equations-spring-2009/268ee8b249b80b2e874173295afa0329_MIT18_034s09_proj04_taylor.pdf
+file_size: 165154
 file_type: application/pdf
 learning_resource_types:
 - Projects

@@ -4,6 +4,7 @@ description: 'Example of student work for the optional final project of the cour
   a paper on adaptive stepsize numerical methods for solving ordinary differential
   equations.'
 file: /courses/18-034-honors-differential-equations-spring-2009/2e67504e225aad95dffec194d9efb139_MIT18_034s09_proj01_euler.pdf
+file_size: 125520
 file_type: application/pdf
 learning_resource_types:
 - Projects
