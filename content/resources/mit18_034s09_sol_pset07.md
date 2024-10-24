@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on differential equations.
-file: /courses/18-034-honors-differential-equations-spring-2009/00e7babcab3f62034a4fe6dc9c202ed8_MIT18_034s09_sol_pset07.pdf
+file: /ol-ocw-studio-app/courses/18-034-honors-differential-equations-spring-2009/00e7babcab3f62034a4fe6dc9c202ed8_MIT18_034s09_sol_pset07.pdf
 file_size: 134475
 file_type: application/pdf
 learning_resource_types:
