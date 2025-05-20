@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Midterm exam on differential equations.
-file: /ol-ocw-studio-app/courses/18-034-honors-differential-equations-spring-2009/e7d28c2f6db6dc0859aa4b1a15cd1eb1_MIT18_034s09_exam01_midterm01.pdf
+file: /courses/18-034-honors-differential-equations-spring-2009/e7d28c2f6db6dc0859aa4b1a15cd1eb1_MIT18_034s09_exam01_midterm01.pdf
 file_size: 82248
 file_type: application/pdf
 learning_resource_types:
